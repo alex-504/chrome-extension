@@ -1,6 +1,7 @@
 # chrome-extension
 
 A FISHY EXTENSION! SEND MESSAGES TO CHATBOX
+
 - A simple extension that retrieves information to this chatbox (https://wagon-chat.herokuapp.com/engineering) everytime the button is clicked.
 - Multitab functionality
 - Tools used:
