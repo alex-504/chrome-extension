@@ -1,4 +1,4 @@
-# chrome-extension
+# Chrome-extension
 
 
 A FISHY EXTENSION! SEND MESSAGES TO CHATBOX
