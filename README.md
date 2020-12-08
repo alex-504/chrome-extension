@@ -9,8 +9,7 @@ A FISHY EXTENSION! SEND MESSAGES TO CHATBOX
   JavaScript
   
 
-  A simple manifest file reads and creates all javascript actions. 
- 
+  A function sendData(data) in the manifest file, send comments once it is clicked. 
   The button is triggered once and it will submit comments to the chat as many times as it is clicked
   
   
