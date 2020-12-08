@@ -14,10 +14,10 @@ function sendData(data) {
     method: 'POST',
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      "author": "Le Wagon chrome extension",
-      "content": `Great extension! Like a pro: ${data.title} on ${data.url}`
+      "author": "A lovely fish",
+      "content": `You guys rock! I am crying here 😭: ${data.title} on ${data.url}`
     })
   })
 }
 
-sendData(fetchData());
+sendData(fetchData()); 
