@@ -1,7 +1,7 @@
 # Chrome-extension
 
 
-A FISHY EXTENSION! SEND MESSAGES TO CHATBOX
+SEND MESSAGES TO A REMOTE API CHATBOX
 
 ![](images/extension.PNG)
 
